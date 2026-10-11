@@ -1,0 +1,44 @@
+{
+  "slug": "bei-qi-shu",
+  "order": 11,
+  "titleZh": "北齐书",
+  "titleEn": "Book of Northern Qi",
+  "pinyin": "Běi Qíshū",
+  "compilers": [
+    {
+      "zh": "李百药",
+      "en": "Li Baiyao"
+    }
+  ],
+  "compiledDynasty": "唐",
+  "compiledYear": "636年",
+  "covers": "北齐",
+  "yearsCovered": "550–577",
+  "yearStart": 550,
+  "yearEnd": 577,
+  "juan": 50,
+  "genre": "断代史",
+  "group": "晋与南北朝",
+  "structure": [
+    {
+      "name": "本纪",
+      "count": 8
+    },
+    {
+      "name": "列传",
+      "count": 42
+    }
+  ],
+  "summaryZh": "李百药承其父李德林旧稿修成。原本残缺严重，今本多由《北史》回补，阅读时需注意来源层次。尽管如此，它对高齐政治、军事集团与北朝后期社会仍是专史。",
+  "summaryEn": "Li Baiyao completed his father Li Delin’s drafts. The original text is badly damaged; much of the received book was restored from the Bei Shi. It remains the dedicated history of the Gao family’s Northern Qi.",
+  "notes": [
+    "中华书局点校本对残缺与补文有详细校记。",
+    "宜与《周书》《北史》三书合观。"
+  ],
+  "relatedBookSlugs": [
+    "wei-shu",
+    "zhou-shu",
+    "bei-shi"
+  ],
+  "relatedPersonSlugs": []
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ershisishi.local/schema/person.json",
+  "title": "Person frontmatter",
+  "type": "object",
+  "required": [
+    "slug",
+    "nameZh",
+    "nameEn",
+    "pinyin",
+    "role",
+    "years",
+    "dynasty",
+    "bookSlugs",
+    "summaryEn"
+  ],
+  "properties": {
+    "slug": { "type": "string" },
+    "nameZh": { "type": "string" },
+    "nameEn": { "type": "string" },
+    "pinyin": { "type": "string" },
+    "role": { "type": "string" },
+    "years": { "type": "string" },
+    "dynasty": { "type": "string" },
+    "bookSlugs": { "type": "array", "items": { "type": "string" } },
+    "chapters": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["bookSlug", "chapter"],
+        "properties": {
+          "bookSlug": { "type": "string" },
+          "chapter": { "type": "string" }
+        }
+      }
+    },
+    "summaryEn": { "type": "string" }
+  }
+}

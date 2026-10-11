@@ -1,0 +1,49 @@
+{
+  "slug": "nan-shi",
+  "order": 14,
+  "titleZh": "南史",
+  "titleEn": "History of the Southern Dynasties",
+  "pinyin": "Nánshǐ",
+  "compilers": [
+    {
+      "zh": "李延寿",
+      "en": "Li Yanshou",
+      "slug": "li-yanshou"
+    }
+  ],
+  "compiledDynasty": "唐",
+  "compiledYear": "659年",
+  "covers": "宋、齐、梁、陈",
+  "yearsCovered": "420–589",
+  "yearStart": 420,
+  "yearEnd": 589,
+  "juan": 80,
+  "genre": "通史",
+  "group": "南北史与隋",
+  "structure": [
+    {
+      "name": "本纪",
+      "count": 10
+    },
+    {
+      "name": "列传",
+      "count": 70
+    }
+  ],
+  "summaryZh": "李延寿据家学与宋齐梁陈四书删订而成的南朝通史。打破朝代断限，以家族列传贯穿四代，最便于看门阀世系。叙事比各书简净，也补充了不少遗闻，但删略制度，须还读本书。",
+  "summaryEn": "Li Yanshou’s continuous history of Song, Qi, Liang, and Chen. By grouping family biographies across dynasties, it is the easiest map of southern aristocratic lineages. It is shorter and sometimes richer in anecdote, but institutional detail still lives in the four separate books.",
+  "notes": [
+    "与《北史》为兄弟篇，合称「南北史」。",
+    "家传式写法对谱牒研究极有用。"
+  ],
+  "relatedBookSlugs": [
+    "song-shu",
+    "nan-qi-shu",
+    "liang-shu",
+    "chen-shu",
+    "bei-shi"
+  ],
+  "relatedPersonSlugs": [
+    "li-yanshou"
+  ]
+}

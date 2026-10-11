@@ -1,0 +1,55 @@
+{
+  "slug": "jin-shi",
+  "order": 22,
+  "titleZh": "金史",
+  "titleEn": "History of Jin",
+  "pinyin": "Jīnshǐ",
+  "compilers": [
+    {
+      "zh": "脱脱等",
+      "en": "Toqto'a et al.",
+      "slug": "toqto"
+    }
+  ],
+  "compiledDynasty": "元",
+  "compiledYear": "1344年",
+  "covers": "金",
+  "yearsCovered": "1115–1234",
+  "yearStart": 1115,
+  "yearEnd": 1234,
+  "juan": 135,
+  "genre": "断代史",
+  "group": "宋辽金元明",
+  "structure": [
+    {
+      "name": "本纪",
+      "count": 19
+    },
+    {
+      "name": "志",
+      "count": 39
+    },
+    {
+      "name": "表",
+      "count": 4
+    },
+    {
+      "name": "列传",
+      "count": 73
+    }
+  ],
+  "summaryZh": "三史之中，历来评价最高。金朝汉化较深，实录、国史相对完备，元人又多据金朝旧籍，故体例整齐、叙事清楚。对女真制度、猛安谋克、科举与章宗、宣宗以降的衰亡过程记载较详。",
+  "summaryEn": "Usually judged the best of the three Yuan-compiled histories. The Jurchen Jin left relatively full records, and the Yuan editors used them well. It is the main account of Jin institutions, the meng’an-mouke system, and the dynasty’s collapse.",
+  "notes": [
+    "《金史》文笔较《宋史》干净，是元修史的标杆。",
+    "与南宋、蒙古关系需参《宋史》《元史》。"
+  ],
+  "relatedBookSlugs": [
+    "song-shi",
+    "liao-shi",
+    "yuan-shi"
+  ],
+  "relatedPersonSlugs": [
+    "toqto"
+  ]
+}

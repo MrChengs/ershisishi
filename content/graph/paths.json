@@ -1,0 +1,292 @@
+[
+  {
+    "id": "bianfa-hezong-lianheng",
+    "titleZh": "变法与合纵连横",
+    "titleEn": "Bianfa and Hezong Lianheng",
+    "summaryZh": "涵盖商鞅变法、苏秦张仪纵横、长平之战等。法家制度如何重塑秦国；六国之间的外交博弈。",
+    "bookSlugs": [
+      "shi-ji",
+      "han-shu"
+    ],
+    "status": "planned",
+    "closedWorld": false
+  },
+  {
+    "id": "qing-sao-liuguo",
+    "titleZh": "秦并天下与暴政速亡",
+    "titleEn": "Qing Sao and Liuguo",
+    "summaryZh": "秦始皇统一、焚书坑儒、沙丘之谋、陈胜吴广起义等。秦朝如何迅速灭亡。",
+    "bookSlugs": [
+      "shi-ji",
+      "han-shu"
+    ],
+    "status": "planned",
+    "closedWorld": false
+  },
+  {
+    "id": "chu-han",
+    "titleZh": "楚汉相争",
+    "titleEn": "Chu–Han",
+    "summaryZh": "大题，不是单场战役。内含巨鹿、鸿门、彭城、井陉、成皋、垓下等较小事件。史记、汉书。封闭名单：缺边即错。",
+    "bookSlugs": [
+      "shi-ji",
+      "han-shu"
+    ],
+    "status": "extracting",
+    "closedWorld": true
+  },
+  {
+    "id": "early-han-consolidation",
+    "titleZh": "汉初休养与削藩",
+    "titleEn": "Early Han Consolidation",
+    "summaryZh": "大题。内含白登之围、吕后专权、七国之乱。史记、汉书。重点在于皇权与同姓诸侯王的对抗。",
+    "bookSlugs": [
+      "shi-ji",
+      "han-shu"
+    ],
+    "status": "pending",
+    "closedWorld": true
+  },
+  {
+    "id": "han-wu-institutions",
+    "titleZh": "汉武建制",
+    "titleEn": "Han Wu Institutions",
+    "summaryZh": "大题。内含推恩令、独尊儒术、盐铁官营、漠北之战、巫蛊之祸。史记、汉书。重点在于儒家正统确立与帝国扩张。",
+    "bookSlugs": [
+      "shi-ji",
+      "han-shu"
+    ],
+    "status": "pending",
+    "closedWorld": true
+  },
+  {
+    "id": "wang-mang-usurpation",
+    "titleZh": "昭宣中兴与王莽篡汉",
+    "titleEn": "Wang Mang Usurpation",
+    "summaryZh": "大题。内含霍光辅政、王莽改制、绿林赤眉起义。汉书、后汉书。重点在于外戚崛起与理想主义改革失败。",
+    "bookSlugs": [
+      "han-shu",
+      "hou-hanshu"
+    ],
+    "status": "pending",
+    "closedWorld": true
+  },
+  {
+    "id": "eastern-han-decline",
+    "titleZh": "光武中兴与党锢之祸",
+    "titleEn": "Eastern Han Decline",
+    "summaryZh": "大题。内含昆阳之战、党锢之祸、黄巾起义。后汉书。重点在于豪强地主坐大与士大夫宦官搏斗。",
+    "bookSlugs": [
+      "hou-hanshu"
+    ],
+    "status": "pending",
+    "closedWorld": true
+  },
+  {
+    "id": "three-kingdoms",
+    "titleZh": "三国鼎立",
+    "titleEn": "Three Kingdoms",
+    "summaryZh": "大题。内含赤壁之战、夷陵之战、诸葛亮北伐、高平陵之变。三国志、后汉书。重点在于士族窃取政权。",
+    "bookSlugs": [
+      "sanguo-zhi",
+      "hou-hanshu"
+    ],
+    "status": "pending",
+    "closedWorld": true
+  },
+  {
+    "id": "jin-disaster",
+    "titleZh": "五胡乱华与衣冠南渡",
+    "titleEn": "Jin Disaster",
+    "summaryZh": "大题。内含八王之乱、永嘉之乱、淝水之战。晋书。重点在于游牧民族迁徙与东晋门阀政治。",
+    "bookSlugs": [
+      "jin-shu"
+    ],
+    "status": "pending",
+    "closedWorld": true
+  },
+  {
+    "id": "northern-southern-dynasties",
+    "titleZh": "南北朝对峙与融合",
+    "titleEn": "Northern and Southern Dynasties",
+    "summaryZh": "大题。内含刘裕代晋、北魏孝文帝改革、侯景之乱。宋书、南齐书、魏书、北史。重点在于民族汉化与门阀衰落。",
+    "bookSlugs": [
+      "song-shu",
+      "nan-qi-shu",
+      "wei-shu",
+      "bei-shi"
+    ],
+    "status": "pending",
+    "closedWorld": true
+  },
+  {
+    "id": "sui-tang-unification",
+    "titleZh": "隋唐大一统与贞观",
+    "titleEn": "Sui-Tang Unification",
+    "summaryZh": "大题。内含隋炀帝开运河、玄武门之变、贞观之治。隋书、旧唐书。重点在于关陇集团分化与三省六部制成熟。",
+    "bookSlugs": [
+      "sui-shu",
+      "jiu-tang-shu"
+    ],
+    "status": "pending",
+    "closedWorld": true
+  },
+  {
+    "id": "wu-zhou-revolution",
+    "titleZh": "武周革命与开元盛世",
+    "titleEn": "Wu Zhou Revolution",
+    "summaryZh": "大题。内含武则天称帝、酷吏政治、姚崇宋璟辅政。旧唐书、新唐书。重点在于女性皇权与科举打击门阀。",
+    "bookSlugs": [
+      "jiu-tang-shu",
+      "xin-tang-shu"
+    ],
+    "status": "pending",
+    "closedWorld": true
+  },
+  {
+    "id": "an-lushan-rebellion",
+    "titleZh": "安史之乱与藩镇割据",
+    "titleEn": "An Lushan Rebellion",
+    "summaryZh": "大题。内含马嵬坡之变、元和中兴、甘露之变。旧唐书、新唐书。重点在于中央与节度使拉锯及宦官专权。",
+    "bookSlugs": [
+      "jiu-tang-shu",
+      "xin-tang-shu"
+    ],
+    "status": "pending",
+    "closedWorld": true
+  },
+  {
+    "id": "five-dynasties-chaos",
+    "titleZh": "五代十国武人乱政",
+    "titleEn": "Five Dynasties Chaos",
+    "summaryZh": "大题。内含朱温篡唐、石敬瑭儿皇帝、周世宗改革。旧五代史、新五代史。重点在于武将权力失控。",
+    "bookSlugs": [
+      "jiu-wu-dai-shi",
+      "xin-wu-dai-shi"
+    ],
+    "status": "pending",
+    "closedWorld": true
+  },
+  {
+    "id": "northern-song-founding",
+    "titleZh": "北宋立国与强干弱枝",
+    "titleEn": "Northern Song Founding",
+    "summaryZh": "大题。内含陈桥兵变、杯酒释兵权、澶渊之盟。宋史。重点在于重文轻武制度设计与宋辽外交。",
+    "bookSlugs": [
+      "song-shi"
+    ],
+    "status": "pending",
+    "closedWorld": true
+  },
+  {
+    "id": "wang-an-shi-reform",
+    "titleZh": "王安石变法与党争",
+    "titleEn": "Wang Anshi Reform",
+    "summaryZh": "大题。内含熙宁变法、司马光废法、乌台诗案。宋史。重点在于士大夫意识形态分裂。",
+    "bookSlugs": [
+      "song-shi"
+    ],
+    "status": "pending",
+    "closedWorld": true
+  },
+  {
+    "id": "jingkang-incident",
+    "titleZh": "靖康之难与南宋偏安",
+    "titleEn": "Jingkang Incident",
+    "summaryZh": "大题。内含海上之盟、靖康之耻、岳飞抗金、绍兴和议。宋史。重点在于主战与主和派斗争。",
+    "bookSlugs": [
+      "song-shi"
+    ],
+    "status": "pending",
+    "closedWorld": true
+  },
+  {
+    "id": "liao-jin-rise",
+    "titleZh": "辽金崛起与二元体制",
+    "titleEn": "Liao Jin Rise",
+    "summaryZh": "大题。内含阿保机建辽、完颜阿骨打抗辽、采石之战。辽史、金史。重点在于南北面官制与女真汉化。",
+    "bookSlugs": [
+      "liao-shi",
+      "jin-shi"
+    ],
+    "status": "pending",
+    "closedWorld": true
+  },
+  {
+    "id": "yuan-unification",
+    "titleZh": "蒙元统一与大运河",
+    "titleEn": "Yuan Unification",
+    "summaryZh": "大题。内含成吉思汗西征、襄阳之战、崖山海战、行省制。元史。重点在于蒙古版图与四等人制。",
+    "bookSlugs": [
+      "yuan-shi"
+    ],
+    "status": "pending",
+    "closedWorld": true
+  },
+  {
+    "id": "hongwu-purge",
+    "titleZh": "洪武建制与清洗",
+    "titleEn": "Hongwu Purge",
+    "summaryZh": "大题。内含废丞相、胡惟庸案、蓝玉案、靖难之役。明史。重点在于功臣肉体消灭与皇权独大。",
+    "bookSlugs": [
+      "ming-shi"
+    ],
+    "status": "pending",
+    "closedWorld": true
+  },
+  {
+    "id": "tumu-crisis",
+    "titleZh": "仁宣之治与土木堡",
+    "titleEn": "Tumu Crisis",
+    "summaryZh": "大题。内含三杨辅政、郑和下西洋、土木堡之变、北京保卫战。明史。重点在于文官制约皇权与武勋毁灭。",
+    "bookSlugs": [
+      "ming-shi"
+    ],
+    "status": "pending",
+    "closedWorld": true
+  },
+  {
+    "id": "ming-factionalism",
+    "titleZh": "大礼议与内阁权臣",
+    "titleEn": "Ming Factionalism",
+    "summaryZh": "大题。内含大礼议之争、张居正改革、严嵩专权。明史。重点在于内阁首辅权力膨胀。",
+    "bookSlugs": [
+      "ming-shi"
+    ],
+    "status": "pending",
+    "closedWorld": true
+  },
+  {
+    "id": "late-ming-collapse",
+    "titleZh": "晚明党争与灭亡",
+    "titleEn": "Late Ming Collapse",
+    "summaryZh": "大题。内含东林党争、魏忠贤乱政、萨尔浒之战、崇祯自缢。明史。重点在于道德洁癖与实务派冲突。",
+    "bookSlugs": [
+      "ming-shi"
+    ],
+    "status": "pending",
+    "closedWorld": true
+  },
+  {
+    "id": "qing-zenith",
+    "titleZh": "康雍乾盛世与集权",
+    "titleEn": "Qing Zenith",
+    "summaryZh": "大题。内含军机处设立、文字狱、摊丁入亩。清史稿。重点在于君主专制顶峰与满汉平衡。",
+    "bookSlugs": [
+      "qing-shi-gao"
+    ],
+    "status": "pending",
+    "closedWorld": true
+  },
+  {
+    "id": "late-qing-change",
+    "titleZh": "晚清变局",
+    "titleEn": "Late Qing Change",
+    "summaryZh": "大题。内含鸦片战争、太平天国、洋务运动、戊戌变法、辛亥革命。清史稿。重点在于帝国崩溃与重组。",
+    "bookSlugs": [
+      "qing-shi-gao"
+    ],
+    "status": "pending",
+    "closedWorld": true
+  }
+]

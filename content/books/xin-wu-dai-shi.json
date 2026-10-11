@@ -1,0 +1,64 @@
+{
+  "slug": "xin-wu-dai-shi",
+  "order": 19,
+  "titleZh": "新五代史",
+  "titleEn": "New History of the Five Dynasties",
+  "pinyin": "Xīn Wǔdàishǐ",
+  "compilers": [
+    {
+      "zh": "欧阳修",
+      "en": "Ouyang Xiu",
+      "slug": "ouyang-xiu"
+    }
+  ],
+  "compiledDynasty": "北宋",
+  "compiledYear": "约1053年成书",
+  "covers": "五代（兼及十国）",
+  "yearsCovered": "907–960",
+  "yearStart": 907,
+  "yearEnd": 960,
+  "juan": 74,
+  "genre": "断代史",
+  "group": "唐与五代",
+  "structure": [
+    {
+      "name": "本纪",
+      "count": 12
+    },
+    {
+      "name": "列传",
+      "count": 45
+    },
+    {
+      "name": "考",
+      "count": 3,
+      "note": "相当于志"
+    },
+    {
+      "name": "世家",
+      "count": 10
+    },
+    {
+      "name": "十国世家年谱",
+      "count": 1
+    },
+    {
+      "name": "四夷附录",
+      "count": 3
+    }
+  ],
+  "summaryZh": "欧阳修私修而后成为正史。效法《史记》《春秋》，以书法寓褒贬，文笔极精。十国用世家，制度仅作司天、职方等考。史识高而材料有时不如旧史，故与《旧五代史》必须合读。",
+  "summaryEn": "Ouyang Xiu’s private history, later canonized. Modeled on the Shiji and the Spring and Autumn Annals, it uses terse “praise and blame.” The Ten Kingdoms appear as hereditary houses. Literary power is high; documentary density is sometimes lower than the older history.",
+  "notes": [
+    "原名《五代史记》。",
+    "徐无党注阐发「春秋」笔法，是理解欧史的钥匙。"
+  ],
+  "relatedBookSlugs": [
+    "jiu-wu-dai-shi",
+    "xin-tang-shu",
+    "shi-ji"
+  ],
+  "relatedPersonSlugs": [
+    "ouyang-xiu"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "sanguo-zhi",
+  "order": 4,
+  "titleZh": "三国志",
+  "titleEn": "Records of the Three Kingdoms",
+  "pinyin": "Sānguózhì",
+  "compilers": [
+    {
+      "zh": "陈寿",
+      "en": "Chen Shou",
+      "slug": "chen-shou"
+    }
+  ],
+  "compiledDynasty": "西晋",
+  "compiledYear": "约280年代",
+  "covers": "魏、蜀、吴",
+  "yearsCovered": "220–280",
+  "yearStart": 184,
+  "yearEnd": 280,
+  "juan": 65,
+  "genre": "断代史",
+  "group": "前四史",
+  "structure": [
+    {
+      "name": "魏书",
+      "count": 30
+    },
+    {
+      "name": "蜀书",
+      "count": 15
+    },
+    {
+      "name": "吴书",
+      "count": 20
+    }
+  ],
+  "summaryZh": "分魏、蜀、吴三书，以魏为正统而并列三国。陈寿文笔简净，剪裁极严，故本文较短。南朝宋裴松之广泛征引魏晋旧闻作注，注中史料往往比本文更富，形成「本文与注并读」的独特传统。",
+  "summaryEn": "Three parallel records of Wei, Shu, and Wu, treating Wei as the legitimate line. Chen Shou’s narrative is famously spare. Pei Songzhi’s fifth-century commentary quotes a huge library of now-lost sources, so the standard way to read the book is text and commentary together.",
+  "notes": [
+    "裴松之注完成于元嘉六年（429），与原书几乎不可分读。",
+    "无表无志，制度史需另参《晋书》诸志。",
+    "后世演义文学多本于此，但正史与小说须分开看待。"
+  ],
+  "relatedBookSlugs": [
+    "hou-hanshu",
+    "jin-shu"
+  ],
+  "relatedPersonSlugs": [
+    "chen-shou",
+    "pei-songzhi",
+    "zhuge-liang"
+  ]
+}

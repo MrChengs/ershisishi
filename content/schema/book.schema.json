@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ershisishi.local/schema/book.json",
+  "title": "Book",
+  "type": "object",
+  "required": [
+    "slug",
+    "order",
+    "titleZh",
+    "titleEn",
+    "pinyin",
+    "compilers",
+    "compiledDynasty",
+    "compiledYear",
+    "covers",
+    "yearsCovered",
+    "yearStart",
+    "yearEnd",
+    "juan",
+    "genre",
+    "group",
+    "structure",
+    "summaryZh",
+    "summaryEn",
+    "notes",
+    "relatedBookSlugs",
+    "relatedPersonSlugs"
+  ],
+  "properties": {
+    "slug": { "type": "string" },
+    "order": { "type": "integer" },
+    "titleZh": { "type": "string" },
+    "titleEn": { "type": "string" },
+    "pinyin": { "type": "string" },
+    "compilers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["zh", "en"],
+        "properties": {
+          "zh": { "type": "string" },
+          "en": { "type": "string" },
+          "slug": { "type": "string" }
+        }
+      }
+    },
+    "compiledDynasty": { "type": "string" },
+    "compiledYear": { "type": "string" },
+    "covers": { "type": "string" },
+    "yearsCovered": { "type": "string" },
+    "yearStart": { "type": "number" },
+    "yearEnd": { "type": "number" },
+    "juan": { "type": "integer" },
+    "genre": { "type": "string" },
+    "group": { "type": "string" },
+    "structure": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "count"],
+        "properties": {
+          "name": { "type": "string" },
+          "count": { "type": "integer" },
+          "note": { "type": "string" }
+        }
+      }
+    },
+    "summaryZh": { "type": "string" },
+    "summaryEn": { "type": "string" },
+    "notes": { "type": "array", "items": { "type": "string" } },
+    "relatedBookSlugs": { "type": "array", "items": { "type": "string" } },
+    "relatedPersonSlugs": { "type": "array", "items": { "type": "string" } }
+  }
+}

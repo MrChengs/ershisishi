@@ -1,0 +1,54 @@
+{
+  "slug": "hou-hanshu",
+  "order": 3,
+  "titleZh": "后汉书",
+  "titleEn": "Book of the Later Han",
+  "pinyin": "Hòu Hànshū",
+  "compilers": [
+    {
+      "zh": "范晔",
+      "en": "Fan Ye",
+      "slug": "fan-ye"
+    }
+  ],
+  "compiledDynasty": "南朝宋",
+  "compiledYear": "约432–445年",
+  "covers": "东汉",
+  "yearsCovered": "25–220",
+  "yearStart": 25,
+  "yearEnd": 220,
+  "juan": 120,
+  "genre": "断代史",
+  "group": "前四史",
+  "structure": [
+    {
+      "name": "纪",
+      "count": 10,
+      "note": "范晔撰"
+    },
+    {
+      "name": "列传",
+      "count": 80,
+      "note": "范晔撰"
+    },
+    {
+      "name": "志",
+      "count": 30,
+      "note": "取司马彪《续汉书》志"
+    }
+  ],
+  "summaryZh": "记载东汉近两百年史事。范晔以人物类传见长，如党锢、文苑、独行、方术、列女，使一代风气可见。范书本无志，梁刘昭取晋司马彪《续汉书》八志补入，今本纪传与志合编为一百二十卷。",
+  "summaryEn": "The standard history of the Eastern Han. Fan Ye is admired for thematic collective biographies—partisans, writers, recluses, fangshi, and notable women—that capture the climate of the age. He did not finish treatises; later editors inserted Sima Biao’s Xu Hanshu treatises, yielding the received 120-juan text.",
+  "notes": [
+    "李贤注纪传，刘昭注志，是阅读门径。",
+    "与《史记》《汉书》《三国志》合称「前四史」。",
+    "范晔论赞往往别出手眼，史学批评意识很强。"
+  ],
+  "relatedBookSlugs": [
+    "han-shu",
+    "sanguo-zhi"
+  ],
+  "relatedPersonSlugs": [
+    "fan-ye"
+  ]
+}

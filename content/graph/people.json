@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "liu-bang",
+    "nameZh": "刘邦",
+    "nameEn": "Liu Bang",
+    "pinyin": "Liú Bāng",
+    "years": "前256–前195",
+    "dynasty": "西汉",
+    "noteZh": "汉高祖。路径脊梁。对读高祖本纪与高帝纪。",
+    "pathIds": [
+      "chu-han"
+    ]
+  },
+  {
+    "slug": "xiang-yu",
+    "nameZh": "项羽",
+    "nameEn": "Xiang Yu",
+    "pinyin": "Xiàng Yǔ",
+    "years": "前232–前202",
+    "dynasty": "秦末",
+    "noteZh": "西楚霸王。路径脊梁。对读项羽本纪与陈胜项籍传。",
+    "pathIds": [
+      "chu-han"
+    ]
+  },
+  {
+    "slug": "han-xin",
+    "nameZh": "韩信",
+    "nameEn": "Han Xin",
+    "pinyin": "Hán Xìn",
+    "years": "？–前196",
+    "dynasty": "西汉",
+    "noteZh": "拜将、井陉、伪游云梦。对读最密。",
+    "pathIds": [
+      "chu-han"
+    ]
+  },
+  {
+    "slug": "zhang-liang",
+    "nameZh": "张良",
+    "nameEn": "Zhang Liang",
+    "pinyin": "Zhāng Liáng",
+    "years": "约前250–前186",
+    "dynasty": "西汉",
+    "noteZh": "计、谏。留侯世家对张陈王周传。",
+    "pathIds": [
+      "chu-han"
+    ]
+  },
+  {
+    "slug": "xiao-he",
+    "nameZh": "萧何",
+    "nameEn": "Xiao He",
+    "pinyin": "Xiāo Hé",
+    "years": "？–前193",
+    "dynasty": "西汉",
+    "noteZh": "荐韩信、守关中。萧相国世家对萧何曹参传。",
+    "pathIds": [
+      "chu-han"
+    ]
+  },
+  {
+    "slug": "chen-ping",
+    "nameZh": "陈平",
+    "nameEn": "Chen Ping",
+    "pinyin": "Chén Píng",
+    "years": "？–前178",
+    "dynasty": "西汉",
+    "noteZh": "计。伪游云梦出其谋。",
+    "pathIds": [
+      "chu-han"
+    ]
+  },
+  {
+    "slug": "ying-bu",
+    "nameZh": "英布",
+    "nameEn": "Ying Bu",
+    "pinyin": "Yīng Bù",
+    "years": "？–前195",
+    "dynasty": "西汉",
+    "noteZh": "项羽所封九江王，后降汉、复叛。汉书在韩彭英卢吴传。",
+    "pathIds": [
+      "chu-han"
+    ]
+  },
+  {
+    "slug": "fan-zeng",
+    "nameZh": "范增",
+    "nameEn": "Fan Zeng",
+    "pinyin": "Fàn Zēng",
+    "years": "前277–前204",
+    "dynasty": "秦末",
+    "noteZh": "谏项羽于鸿门。汉书较简，宜作 qualified 的试验。",
+    "pathIds": [
+      "chu-han"
+    ]
+  },
+  {
+    "slug": "xiang-bo",
+    "nameZh": "项伯",
+    "nameEn": "Xiang Bo",
+    "pinyin": "Xiàng Bó",
+    "years": "？–前192",
+    "dynasty": "秦末",
+    "noteZh": "项羽季父。鸿门小节点、关系密。",
+    "pathIds": [
+      "chu-han"
+    ]
+  },
+  {
+    "slug": "lu-zhi",
+    "nameZh": "吕雉",
+    "nameEn": "Lü Zhi",
+    "pinyin": "Lǚ Zhì",
+    "years": "前241–前180",
+    "dynasty": "西汉",
+    "noteZh": "只取高帝纪/高祖本纪与韩信之死上的路径关系，不开吕后专路。",
+    "pathIds": [
+      "chu-han"
+    ]
+  }
+]

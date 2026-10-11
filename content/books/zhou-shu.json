@@ -1,0 +1,45 @@
+{
+  "slug": "zhou-shu",
+  "order": 12,
+  "titleZh": "周书",
+  "titleEn": "Book of Zhou",
+  "pinyin": "Zhōushū",
+  "compilers": [
+    {
+      "zh": "令狐德棻等",
+      "en": "Linghu Defen et al."
+    }
+  ],
+  "compiledDynasty": "唐",
+  "compiledYear": "636年",
+  "covers": "西魏、北周",
+  "yearsCovered": "535–581",
+  "yearStart": 535,
+  "yearEnd": 581,
+  "juan": 50,
+  "genre": "断代史",
+  "group": "晋与南北朝",
+  "structure": [
+    {
+      "name": "本纪",
+      "count": 8
+    },
+    {
+      "name": "列传",
+      "count": 42
+    }
+  ],
+  "summaryZh": "唐初令狐德棻倡议修前代史，本书即其成果之一，记宇文氏北周并上溯西魏。对府兵、关陇集团与周隋禅代叙述较明确，是理解隋唐制度渊源的北朝一端。",
+  "summaryEn": "Compiled under Linghu Defen, covering Western Wei and Northern Zhou. It is a key source for the fubing militia, the Guanzhong elite, and the handover from Zhou to Sui—the northern root of Tang institutions.",
+  "notes": [
+    "唐修八史之一，贞观十年完成。",
+    "部分列传亦有残缺，需参《北史》。"
+  ],
+  "relatedBookSlugs": [
+    "wei-shu",
+    "bei-qi-shu",
+    "sui-shu",
+    "bei-shi"
+  ],
+  "relatedPersonSlugs": []
+}

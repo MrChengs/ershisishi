@@ -1,0 +1,48 @@
+{
+  "slug": "nan-qi-shu",
+  "order": 7,
+  "titleZh": "南齐书",
+  "titleEn": "Book of Southern Qi",
+  "pinyin": "Nán Qíshū",
+  "compilers": [
+    {
+      "zh": "萧子显",
+      "en": "Xiao Zixian"
+    }
+  ],
+  "compiledDynasty": "南朝梁",
+  "compiledYear": "梁武帝时期",
+  "covers": "南齐",
+  "yearsCovered": "479–502",
+  "yearStart": 479,
+  "yearEnd": 502,
+  "juan": 59,
+  "genre": "断代史",
+  "group": "晋与南北朝",
+  "structure": [
+    {
+      "name": "本纪",
+      "count": 8
+    },
+    {
+      "name": "志",
+      "count": 11
+    },
+    {
+      "name": "列传",
+      "count": 40
+    }
+  ],
+  "summaryZh": "萧子显为齐高帝之孙，以宗室身份撰本朝史。原书六十卷，今佚序录一卷。叙事简洁，志较略，但保存了南齐一代政争、文学与佛教政策的第一手记录。",
+  "summaryEn": "Written by Xiao Zixian, a Southern Qi prince, about his own dynasty. One juan of prefatory material is lost. The narrative is concise; the value lies in near-contemporary testimony on politics, letters, and Buddhism.",
+  "notes": [
+    "作者立场需对照《梁书》《南史》阅读。",
+    "文学传记对永明文学研究极重要。"
+  ],
+  "relatedBookSlugs": [
+    "song-shu",
+    "liang-shu",
+    "nan-shi"
+  ],
+  "relatedPersonSlugs": []
+}

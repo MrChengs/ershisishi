@@ -1,0 +1,55 @@
+{
+  "slug": "song-shi",
+  "order": 20,
+  "titleZh": "宋史",
+  "titleEn": "History of Song",
+  "pinyin": "Sòngshǐ",
+  "compilers": [
+    {
+      "zh": "脱脱等",
+      "en": "Toqto'a et al.",
+      "slug": "toqto"
+    }
+  ],
+  "compiledDynasty": "元",
+  "compiledYear": "1343–1345年",
+  "covers": "北宋、南宋",
+  "yearsCovered": "960–1279",
+  "yearStart": 960,
+  "yearEnd": 1279,
+  "juan": 496,
+  "genre": "断代史",
+  "group": "宋辽金元明",
+  "structure": [
+    {
+      "name": "本纪",
+      "count": 47
+    },
+    {
+      "name": "志",
+      "count": 162
+    },
+    {
+      "name": "表",
+      "count": 32
+    },
+    {
+      "name": "列传",
+      "count": 255
+    }
+  ],
+  "summaryZh": "二十四史中卷帙最巨。元末脱脱等以宋朝国史、实录为底，成书极速，故芜杂重复、考订不精之处不少，但原始材料保留最多。志的部分尤其庞大，是宋代制度史、经济史、学术史的资料渊薮。",
+  "summaryEn": "The longest of the Twenty-Four Histories. Compiled at speed from Song national histories, it is uneven and sometimes careless, yet it preserves the largest body of Song documentation. The treatises are a vast reservoir for institutions, economy, and scholarship.",
+  "notes": [
+    "与《辽史》《金史》同时开馆，三史并修。",
+    "列传分类极细，道学、儒林分卷，反映元人学术眼光。",
+    "清人《宋史新编》等欲改修，皆未能取代。"
+  ],
+  "relatedBookSlugs": [
+    "liao-shi",
+    "jin-shi"
+  ],
+  "relatedPersonSlugs": [
+    "toqto"
+  ]
+}

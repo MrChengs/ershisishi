@@ -1,0 +1,54 @@
+{
+  "slug": "ming-shi",
+  "order": 24,
+  "titleZh": "明史",
+  "titleEn": "History of Ming",
+  "pinyin": "Míngshǐ",
+  "compilers": [
+    {
+      "zh": "张廷玉等",
+      "en": "Zhang Tingyu et al.",
+      "slug": "zhang-tingyu"
+    }
+  ],
+  "compiledDynasty": "清",
+  "compiledYear": "1739年刊行",
+  "covers": "明",
+  "yearsCovered": "1368–1644",
+  "yearStart": 1368,
+  "yearEnd": 1644,
+  "juan": 332,
+  "genre": "断代史",
+  "group": "宋辽金元明",
+  "structure": [
+    {
+      "name": "本纪",
+      "count": 24
+    },
+    {
+      "name": "志",
+      "count": 75
+    },
+    {
+      "name": "表",
+      "count": 13
+    },
+    {
+      "name": "列传",
+      "count": 220
+    }
+  ],
+  "summaryZh": "二十四史的殿军，也是官修史书中经营最久、体例最整的一部。自顺治开馆，至乾隆四年刊行，历时九十余年。万斯同以布衣参史，王鸿绪稿本再经张廷玉等删定。叙事稳练，表志完备，历来被视为正史写作的收官之作。",
+  "summaryEn": "The last of the Twenty-Four Histories, and the most carefully finished official history. Work began under Shunzhi and the book was printed in 1739. Wan Sitong’s unofficial labor and Wang Hongxu’s drafts underlie Zhang Tingyu’s final cut. It is usually praised for balance, tables, and treatises.",
+  "notes": [
+    "南明及明末史事受清廷忌讳，记载有所隐没。",
+    "《历志》《艺文志》《食货志》等为明史研究常用。",
+    "《清史稿》不在二十四史之列，但可视为后续。"
+  ],
+  "relatedBookSlugs": [
+    "yuan-shi"
+  ],
+  "relatedPersonSlugs": [
+    "zhang-tingyu"
+  ]
+}

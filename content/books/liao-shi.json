@@ -1,0 +1,58 @@
+{
+  "slug": "liao-shi",
+  "order": 21,
+  "titleZh": "辽史",
+  "titleEn": "History of Liao",
+  "pinyin": "Liáoshǐ",
+  "compilers": [
+    {
+      "zh": "脱脱等",
+      "en": "Toqto'a et al.",
+      "slug": "toqto"
+    }
+  ],
+  "compiledDynasty": "元",
+  "compiledYear": "1344年",
+  "covers": "辽（契丹）",
+  "yearsCovered": "907–1125",
+  "yearStart": 907,
+  "yearEnd": 1125,
+  "juan": 116,
+  "genre": "断代史",
+  "group": "宋辽金元明",
+  "structure": [
+    {
+      "name": "本纪",
+      "count": 30
+    },
+    {
+      "name": "志",
+      "count": 32
+    },
+    {
+      "name": "表",
+      "count": 8
+    },
+    {
+      "name": "列传",
+      "count": 45
+    },
+    {
+      "name": "国语解",
+      "count": 1
+    }
+  ],
+  "summaryZh": "记契丹辽朝。因辽代汉文史料相对稀少，此书虽简略疏漏，仍是系统了解辽朝的基本文献。《营卫志》《兵卫志》与《国语解》对北族制度、语言尤为重要。宜与《契丹国志》及出土契丹文字材料参照。",
+  "summaryEn": "The standard history of the Khitan Liao. Sources were thin, so the book is brief and sometimes wrong—yet it remains the backbone narrative. Treatises on encampments and armies, plus the glossary of Khitan terms, are uniquely valuable.",
+  "notes": [
+    "元人修辽金宋三史，有「各与正统」的安排。",
+    "记事常与《宋史》冲突，需考证。"
+  ],
+  "relatedBookSlugs": [
+    "song-shi",
+    "jin-shi"
+  ],
+  "relatedPersonSlugs": [
+    "toqto"
+  ]
+}

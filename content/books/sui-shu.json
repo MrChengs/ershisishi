@@ -1,0 +1,53 @@
+{
+  "slug": "sui-shu",
+  "order": 13,
+  "titleZh": "隋书",
+  "titleEn": "Book of Sui",
+  "pinyin": "Suíshū",
+  "compilers": [
+    {
+      "zh": "魏徵等",
+      "en": "Wei Zheng et al.",
+      "slug": "wei-zheng"
+    }
+  ],
+  "compiledDynasty": "唐",
+  "compiledYear": "纪传636年，十志656年",
+  "covers": "隋",
+  "yearsCovered": "581–618",
+  "yearStart": 581,
+  "yearEnd": 618,
+  "juan": 85,
+  "genre": "断代史",
+  "group": "南北史与隋",
+  "structure": [
+    {
+      "name": "帝纪",
+      "count": 5
+    },
+    {
+      "name": "志",
+      "count": 30,
+      "note": "十志，含梁陈北齐北周隋五代"
+    },
+    {
+      "name": "列传",
+      "count": 50
+    }
+  ],
+  "summaryZh": "魏徵监修纪传，长孙无忌等续成十志。志的部分不限于隋，而是梁、陈、北齐、北周、隋五代的制度通述，故有「五代史志」之称。《经籍志》划分经史子集四部，是目录学史上的里程碑。",
+  "summaryEn": "Annals and biographies were supervised by Wei Zheng; the ten treatises, finished later, survey institutions across Liang, Chen, Northern Qi, Northern Zhou, and Sui. The Jingji zhi canonized the fourfold library classification.",
+  "notes": [
+    "读南北朝制度，常要先翻《隋书》志。",
+    "《经籍志》是考先秦至唐初文献存佚的总账。"
+  ],
+  "relatedBookSlugs": [
+    "zhou-shu",
+    "chen-shu",
+    "bei-shi",
+    "nan-shi"
+  ],
+  "relatedPersonSlugs": [
+    "wei-zheng"
+  ]
+}

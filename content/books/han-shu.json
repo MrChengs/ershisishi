@@ -1,0 +1,61 @@
+{
+  "slug": "han-shu",
+  "order": 2,
+  "titleZh": "汉书",
+  "titleEn": "Book of Han",
+  "pinyin": "Hànshū",
+  "compilers": [
+    {
+      "zh": "班固",
+      "en": "Ban Gu",
+      "slug": "ban-gu"
+    },
+    {
+      "zh": "班昭",
+      "en": "Ban Zhao",
+      "slug": "ban-zhao"
+    }
+  ],
+  "compiledDynasty": "东汉",
+  "compiledYear": "公元1世纪，班昭约在110年前补成",
+  "covers": "西汉（含新朝）",
+  "yearsCovered": "前206–23",
+  "yearStart": -206,
+  "yearEnd": 23,
+  "juan": 100,
+  "genre": "断代史",
+  "group": "前四史",
+  "structure": [
+    {
+      "name": "纪",
+      "count": 12
+    },
+    {
+      "name": "表",
+      "count": 8
+    },
+    {
+      "name": "志",
+      "count": 10
+    },
+    {
+      "name": "列传",
+      "count": 70
+    }
+  ],
+  "summaryZh": "第一部纪传体断代史。班固在其父班彪《史记后传》基础上撰成，未竟而卒，妹班昭与马续补表、志。全书专记西汉一代，把《史记》的「书」改为「志」，并新增《刑法》《地理》《艺文》等志，成为后世断代正史的标准。",
+  "summaryEn": "The first dynastic history in the biographical-annalistic form. Ban Gu built on his father Ban Biao’s continuation of the Shiji; after his death, Ban Zhao and Ma Xu completed the tables and treatises. It covers the Western Han only, renamed the “books” as “treatises,” and added new institutional chapters that later histories copied.",
+  "notes": [
+    "与《史记》并称「史汉」，文字典雅，史法严密。",
+    "《艺文志》是中国最早的综合性图书目录之一，为文献学根基。",
+    "颜师古注是最通行的古注。"
+  ],
+  "relatedBookSlugs": [
+    "shi-ji",
+    "hou-hanshu"
+  ],
+  "relatedPersonSlugs": [
+    "ban-gu",
+    "ban-zhao"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "liang-shu",
+  "order": 8,
+  "titleZh": "梁书",
+  "titleEn": "Book of Liang",
+  "pinyin": "Liángshū",
+  "compilers": [
+    {
+      "zh": "姚思廉",
+      "en": "Yao Silian",
+      "slug": "yao-silian"
+    }
+  ],
+  "compiledDynasty": "唐",
+  "compiledYear": "636年",
+  "covers": "梁",
+  "yearsCovered": "502–557",
+  "yearStart": 502,
+  "yearEnd": 557,
+  "juan": 56,
+  "genre": "断代史",
+  "group": "晋与南北朝",
+  "structure": [
+    {
+      "name": "本纪",
+      "count": 6
+    },
+    {
+      "name": "列传",
+      "count": 50
+    }
+  ],
+  "summaryZh": "姚思廉承父姚察旧稿，贞观中奉诏完成。无表无志，纪传为主。对梁武帝崇佛、侯景之乱及江陵沦陷记载较详，是理解南朝文化高峰与骤然崩解的核心史书。",
+  "summaryEn": "Completed by Yao Silian from his father Yao Cha’s drafts. There are no tables or treatises. It is the main narrative of Liang Wudi’s Buddhist court, the Hou Jing rebellion, and the fall of Jiangling.",
+  "notes": [
+    "与《陈书》同出姚氏之手，文风相对质朴。",
+    "文学传保存了梁代目录与文集信息。"
+  ],
+  "relatedBookSlugs": [
+    "chen-shu",
+    "nan-qi-shu",
+    "nan-shi"
+  ],
+  "relatedPersonSlugs": [
+    "yao-silian"
+  ]
+}

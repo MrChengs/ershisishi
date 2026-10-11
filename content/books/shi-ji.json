@@ -1,0 +1,60 @@
+{
+  "slug": "shi-ji",
+  "order": 1,
+  "titleZh": "史记",
+  "titleEn": "Records of the Grand Historian",
+  "pinyin": "Shǐjì",
+  "compilers": [
+    {
+      "zh": "司马迁",
+      "en": "Sima Qian",
+      "slug": "sima-qian"
+    }
+  ],
+  "compiledDynasty": "西汉",
+  "compiledYear": "约公元前91年",
+  "covers": "黄帝至汉武帝",
+  "yearsCovered": "约前2550–前87",
+  "yearStart": -2550,
+  "yearEnd": -87,
+  "juan": 130,
+  "genre": "通史",
+  "group": "前四史",
+  "structure": [
+    {
+      "name": "本纪",
+      "count": 12
+    },
+    {
+      "name": "表",
+      "count": 10
+    },
+    {
+      "name": "书",
+      "count": 8,
+      "note": "后世正史多称「志」"
+    },
+    {
+      "name": "世家",
+      "count": 30
+    },
+    {
+      "name": "列传",
+      "count": 70
+    }
+  ],
+  "summaryZh": "中国第一部纪传体通史，也是二十四史的开山之作。司马迁以本纪、表、书、世家、列传五体，把帝王、侯国、制度、人物织进同一部史书，创立了此后正史的基本体例。记载自传说中的黄帝，下迄汉武帝时代，既有帝王大事，也有游侠、货殖、刺客等社会群像。",
+  "summaryEn": "The first biographical-annalistic general history of China, and the model for later official histories. Sima Qian organized emperors, feudal houses, institutions, and individual lives into five complementary forms. It runs from the legendary Yellow Emperor to the reign of Emperor Wu of Han, and is as famous for its prose as for its method.",
+  "notes": [
+    "司马谈发凡起例，司马迁发愤续成，故又称《太史公书》。",
+    "「究天人之际，通古今之变，成一家之言」是其史学宣言。",
+    "十表与八书保存了早期制度、历法、河渠、平准等专门知识。"
+  ],
+  "relatedBookSlugs": [
+    "han-shu"
+  ],
+  "relatedPersonSlugs": [
+    "sima-qian",
+    "xiang-yu"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "xin-tang-shu",
+  "order": 17,
+  "titleZh": "新唐书",
+  "titleEn": "New Book of Tang",
+  "pinyin": "Xīn Tángshū",
+  "compilers": [
+    {
+      "zh": "欧阳修",
+      "en": "Ouyang Xiu",
+      "slug": "ouyang-xiu"
+    },
+    {
+      "zh": "宋祁",
+      "en": "Song Qi"
+    }
+  ],
+  "compiledDynasty": "北宋",
+  "compiledYear": "1060年",
+  "covers": "唐",
+  "yearsCovered": "618–907",
+  "yearStart": 618,
+  "yearEnd": 907,
+  "juan": 225,
+  "genre": "断代史",
+  "group": "唐与五代",
+  "structure": [
+    {
+      "name": "本纪",
+      "count": 10
+    },
+    {
+      "name": "志",
+      "count": 50
+    },
+    {
+      "name": "表",
+      "count": 15
+    },
+    {
+      "name": "列传",
+      "count": 150
+    }
+  ],
+  "summaryZh": "欧阳修、宋祁等重修唐史。本纪、志、表多出欧公，列传多出宋祁。增加宰相、方镇、宗室世系等表，志也比旧书更系统。文风追求简古，有时因删改而失实，故必须与《旧唐书》对读。",
+  "summaryEn": "Ouyang Xiu and Song Qi’s redesign of Tang history: more tables, fuller treatises, and a deliberately archaic style. Compression sometimes distorts the record, so it cannot replace the older book; the two are a pair.",
+  "notes": [
+    "「其事则增于前，其文则省于旧」是宋人自评。",
+    "吴缜《新唐书纠谬》专纠其误，可读。"
+  ],
+  "relatedBookSlugs": [
+    "jiu-tang-shu",
+    "xin-wu-dai-shi"
+  ],
+  "relatedPersonSlugs": [
+    "ouyang-xiu"
+  ]
+}

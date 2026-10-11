@@ -1,0 +1,62 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ershisishi.local/schema/config.json",
+  "title": "Site corpus config",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "edition",
+    "firstEditor",
+    "roots",
+    "personRoles",
+    "bookGroups",
+    "dynastyOrder",
+    "claimTypes"
+  ],
+  "properties": {
+    "$schema": { "type": "string" },
+    "edition": { "type": "string" },
+    "firstEditor": { "type": "string" },
+    "roots": {
+      "type": "object",
+      "required": ["books", "people", "articles", "graph"],
+      "properties": {
+        "books": { "type": "string" },
+        "people": { "type": "string" },
+        "articles": { "type": "string" },
+        "graph": { "type": "string" }
+      }
+    },
+    "personRoles": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+    "bookGroups": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "label", "caption"],
+        "properties": {
+          "id": { "type": "string" },
+          "label": { "type": "string" },
+          "caption": { "type": "string" }
+        }
+      }
+    },
+    "dynastyOrder": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+    "claimTypes": { "type": "array", "items": { "type": "string" } },
+    "juanTypes": { "type": "array", "items": { "type": "string" } },
+    "layers": { "type": "array", "items": { "type": "string" } },
+    "pathStatuses": { "type": "array", "items": { "type": "string" } },
+    "claimStatuses": { "type": "array", "items": { "type": "string" } },
+    "bookSlugAliases": {
+      "type": "object",
+      "additionalProperties": { "type": "string" }
+    },
+    "writtenStart": {
+      "type": "object",
+      "additionalProperties": { "type": "number" }
+    },
+    "compiledYear": {
+      "type": "object",
+      "additionalProperties": { "type": "number" }
+    }
+  }
+}
