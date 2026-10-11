@@ -1,0 +1,49 @@
+{
+  "slug": "bei-shi",
+  "order": 15,
+  "titleZh": "北史",
+  "titleEn": "History of the Northern Dynasties",
+  "pinyin": "Běishǐ",
+  "compilers": [
+    {
+      "zh": "李延寿",
+      "en": "Li Yanshou",
+      "slug": "li-yanshou"
+    }
+  ],
+  "compiledDynasty": "唐",
+  "compiledYear": "659年",
+  "covers": "北魏、北齐、北周、隋",
+  "yearsCovered": "386–618",
+  "yearStart": 386,
+  "yearEnd": 618,
+  "juan": 100,
+  "genre": "通史",
+  "group": "南北史与隋",
+  "structure": [
+    {
+      "name": "本纪",
+      "count": 12
+    },
+    {
+      "name": "列传",
+      "count": 88
+    }
+  ],
+  "summaryZh": "北朝与隋的通史，用来补正《魏书》《北齐书》《周书》《隋书》。因北朝诸书多有残缺，《北史》往往成为通行文本。李延寿力求南北对等，是唐人统一史观的体现。",
+  "summaryEn": "A continuous northern history from Wei through Sui, designed to correct and complete the four separate northern books. Because those books are lacunose, the Bei Shi often functions as the working text. It also expresses a Tang wish to treat north and south as one story.",
+  "notes": [
+    "魏收《魏书》缺佚处，多赖《北史》而存。",
+    "读北朝人物，先《北史》后本书，是常用门径。"
+  ],
+  "relatedBookSlugs": [
+    "wei-shu",
+    "bei-qi-shu",
+    "zhou-shu",
+    "sui-shu",
+    "nan-shi"
+  ],
+  "relatedPersonSlugs": [
+    "li-yanshou"
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "tongjian",
+    "titleZh": "资治通鉴",
+    "jobZh": "编年互证，楚汉亦可用"
+  },
+  {
+    "id": "zuozhuan",
+    "titleZh": "左传",
+    "jobZh": "史记春秋段；非楚汉"
+  },
+  {
+    "id": "zhanguoce",
+    "titleZh": "战国策",
+    "jobZh": "史记战国纵横；非楚汉"
+  },
+  {
+    "id": "lienuzhuan",
+    "titleZh": "列女传",
+    "jobZh": "刘向书；勿与后汉书列女传相混"
+  }
+]

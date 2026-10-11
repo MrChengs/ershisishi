@@ -1,0 +1,48 @@
+{
+  "slug": "song-shu",
+  "order": 6,
+  "titleZh": "宋书",
+  "titleEn": "Book of Song",
+  "pinyin": "Sòngshū",
+  "compilers": [
+    {
+      "zh": "沈约",
+      "en": "Shen Yue"
+    }
+  ],
+  "compiledDynasty": "南朝梁",
+  "compiledYear": "487年",
+  "covers": "刘宋",
+  "yearsCovered": "420–479",
+  "yearStart": 420,
+  "yearEnd": 479,
+  "juan": 100,
+  "genre": "断代史",
+  "group": "晋与南北朝",
+  "structure": [
+    {
+      "name": "本纪",
+      "count": 10
+    },
+    {
+      "name": "志",
+      "count": 30
+    },
+    {
+      "name": "列传",
+      "count": 60
+    }
+  ],
+  "summaryZh": "记南朝刘宋。沈约在徐爰等旧稿上删定，志的部分特别丰富，《州郡》《乐》《律历》保存了大量制度与文学材料。因成书较早，叙事接近当代，是研究南朝门阀、礼乐、地理的基本文献。",
+  "summaryEn": "History of the Liu-Song dynasty. Shen Yue revised earlier drafts; the treatises are unusually rich, especially on geography, music, and calendrics. Written close to the events, it is a primary source for southern aristocratic society.",
+  "notes": [
+    "八志中《州郡志》是南朝政区沿革的关键史料。",
+    "与《南齐书》同为南朝人写南朝史。"
+  ],
+  "relatedBookSlugs": [
+    "nan-qi-shu",
+    "nan-shi",
+    "jin-shu"
+  ],
+  "relatedPersonSlugs": []
+}

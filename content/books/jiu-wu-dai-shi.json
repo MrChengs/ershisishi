@@ -1,0 +1,47 @@
+{
+  "slug": "jiu-wu-dai-shi",
+  "order": 18,
+  "titleZh": "旧五代史",
+  "titleEn": "Old History of the Five Dynasties",
+  "pinyin": "Jiù Wǔdàishǐ",
+  "compilers": [
+    {
+      "zh": "薛居正等",
+      "en": "Xue Juzheng et al."
+    }
+  ],
+  "compiledDynasty": "北宋",
+  "compiledYear": "974年",
+  "covers": "梁、唐、晋、汉、周",
+  "yearsCovered": "907–960",
+  "yearStart": 907,
+  "yearEnd": 960,
+  "juan": 150,
+  "genre": "断代史",
+  "group": "唐与五代",
+  "structure": [
+    {
+      "name": "本纪",
+      "count": 61
+    },
+    {
+      "name": "志",
+      "count": 12
+    },
+    {
+      "name": "列传",
+      "count": 77
+    }
+  ],
+  "summaryZh": "宋太祖诏薛居正等据五代实录修成，按五朝分书。欧阳修《新五代史》通行后，本书渐亡，清乾隆时从《永乐大典》辑出，再补他书，已非原貌，但仍比新史更近原始档案。",
+  "summaryEn": "Compiled from Five Dynasties veritable records soon after Song unification. After Ouyang Xiu’s new history became standard, the old one vanished; the Qing reconstructed it from the Yongle Dadian. Even in fragments it is closer to the archives.",
+  "notes": [
+    "今本为辑本，引用时需注意来源。",
+    "十国事迹相对简略，需参《九国志》《十国春秋》等。"
+  ],
+  "relatedBookSlugs": [
+    "xin-wu-dai-shi",
+    "jiu-tang-shu"
+  ],
+  "relatedPersonSlugs": []
+}

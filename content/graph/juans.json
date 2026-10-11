@@ -1,0 +1,265 @@
+[
+  {
+    "work": "shi-ji",
+    "number": 7,
+    "titleZh": "项羽本纪",
+    "type": "纪",
+    "abstractZh": "楚汉路径的楚方脊梁。巨鹿、鸿门、彭城、垓下及范增、项伯多据此篇。",
+    "attestedPersonSlugs": [
+      "xiang-yu",
+      "liu-bang",
+      "fan-zeng",
+      "xiang-bo",
+      "zhang-liang",
+      "ying-bu"
+    ],
+    "attestedEventSlugs": [
+      "julu",
+      "hongmen",
+      "pengcheng",
+      "gaixia"
+    ],
+    "extraction": "claims-extracted",
+    "pathIds": [
+      "chu-han"
+    ]
+  },
+  {
+    "work": "shi-ji",
+    "number": 8,
+    "titleZh": "高祖本纪",
+    "type": "纪",
+    "abstractZh": "汉方脊梁。起沛、入关、即皇帝位，与高帝纪对读。",
+    "attestedPersonSlugs": [
+      "liu-bang",
+      "xiang-yu",
+      "xiao-he",
+      "lu-zhi"
+    ],
+    "attestedEventSlugs": [
+      "hongmen",
+      "pengcheng",
+      "chenggao",
+      "gaixia"
+    ],
+    "extraction": "claims-extracted",
+    "pathIds": [
+      "chu-han"
+    ]
+  },
+  {
+    "work": "shi-ji",
+    "number": 16,
+    "titleZh": "秦楚之际月表",
+    "type": "表",
+    "abstractZh": "共享年表。索引与系年，不按列传密度提取主张。",
+    "attestedPersonSlugs": [
+      "liu-bang",
+      "xiang-yu"
+    ],
+    "attestedEventSlugs": [
+      "julu",
+      "hongmen",
+      "gaixia"
+    ],
+    "extraction": "indexed",
+    "pathIds": [
+      "chu-han"
+    ]
+  },
+  {
+    "work": "shi-ji",
+    "number": 53,
+    "titleZh": "萧相国世家",
+    "type": "世家",
+    "abstractZh": "萧何。荐韩信、守关中、功次。对读汉书萧何曹参传。",
+    "attestedPersonSlugs": [
+      "xiao-he",
+      "liu-bang",
+      "han-xin"
+    ],
+    "attestedEventSlugs": [],
+    "extraction": "claims-extracted",
+    "pathIds": [
+      "chu-han"
+    ]
+  },
+  {
+    "work": "shi-ji",
+    "number": 55,
+    "titleZh": "留侯世家",
+    "type": "世家",
+    "abstractZh": "张良。计与谏。对读张陈王周传张良段。",
+    "attestedPersonSlugs": [
+      "zhang-liang",
+      "liu-bang",
+      "xiang-bo"
+    ],
+    "attestedEventSlugs": [
+      "hongmen"
+    ],
+    "extraction": "claims-extracted",
+    "pathIds": [
+      "chu-han"
+    ]
+  },
+  {
+    "work": "shi-ji",
+    "number": 56,
+    "titleZh": "陈丞相世家",
+    "type": "世家",
+    "abstractZh": "陈平。多奇计。伪游云梦出此系统。",
+    "attestedPersonSlugs": [
+      "chen-ping",
+      "liu-bang",
+      "han-xin"
+    ],
+    "attestedEventSlugs": [
+      "yunmeng"
+    ],
+    "extraction": "claims-extracted",
+    "pathIds": [
+      "chu-han"
+    ]
+  },
+  {
+    "work": "shi-ji",
+    "number": 91,
+    "titleZh": "黥布列传",
+    "type": "列传",
+    "abstractZh": "英布。项羽封九江王，后归汉、复叛。",
+    "attestedPersonSlugs": [
+      "ying-bu",
+      "xiang-yu",
+      "liu-bang"
+    ],
+    "attestedEventSlugs": [],
+    "extraction": "claims-extracted",
+    "pathIds": [
+      "chu-han"
+    ]
+  },
+  {
+    "work": "shi-ji",
+    "number": 92,
+    "titleZh": "淮阴侯列传",
+    "type": "列传",
+    "abstractZh": "韩信。拜将、井陉、封齐、伪游云梦、吕后之诛。",
+    "attestedPersonSlugs": [
+      "han-xin",
+      "liu-bang",
+      "xiao-he",
+      "lu-zhi",
+      "chen-ping"
+    ],
+    "attestedEventSlugs": [
+      "jingxing",
+      "yunmeng"
+    ],
+    "extraction": "claims-extracted",
+    "pathIds": [
+      "chu-han"
+    ]
+  },
+  {
+    "work": "han-shu",
+    "number": 1,
+    "titleZh": "高帝纪",
+    "type": "纪",
+    "abstractZh": "对读高祖本纪。班固断代，书法与司马迁不同。",
+    "attestedPersonSlugs": [
+      "liu-bang",
+      "xiang-yu",
+      "lu-zhi",
+      "xiao-he"
+    ],
+    "attestedEventSlugs": [
+      "hongmen",
+      "pengcheng",
+      "gaixia"
+    ],
+    "extraction": "claims-extracted",
+    "pathIds": [
+      "chu-han"
+    ]
+  },
+  {
+    "work": "han-shu",
+    "number": 31,
+    "titleZh": "陈胜项籍传",
+    "type": "列传",
+    "abstractZh": "项籍半篇对读项羽本纪。路径只取项籍，陈胜不入封闭名单。",
+    "attestedPersonSlugs": [
+      "xiang-yu",
+      "liu-bang",
+      "fan-zeng",
+      "xiang-bo"
+    ],
+    "attestedEventSlugs": [
+      "julu",
+      "hongmen",
+      "gaixia"
+    ],
+    "extraction": "claims-extracted",
+    "pathIds": [
+      "chu-han"
+    ]
+  },
+  {
+    "work": "han-shu",
+    "number": 34,
+    "titleZh": "韩彭英卢吴传",
+    "type": "列传",
+    "abstractZh": "路径切片：韩信、英布。彭越、卢绾、吴芮只作索引名，不入人物页。",
+    "attestedPersonSlugs": [
+      "han-xin",
+      "ying-bu",
+      "liu-bang"
+    ],
+    "attestedEventSlugs": [
+      "jingxing",
+      "yunmeng"
+    ],
+    "extraction": "claims-extracted",
+    "pathIds": [
+      "chu-han"
+    ]
+  },
+  {
+    "work": "han-shu",
+    "number": 39,
+    "titleZh": "萧何曹参传",
+    "type": "列传",
+    "abstractZh": "路径切片：萧何。曹参不入封闭名单。",
+    "attestedPersonSlugs": [
+      "xiao-he",
+      "liu-bang",
+      "han-xin"
+    ],
+    "attestedEventSlugs": [],
+    "extraction": "claims-extracted",
+    "pathIds": [
+      "chu-han"
+    ]
+  },
+  {
+    "work": "han-shu",
+    "number": 40,
+    "titleZh": "张陈王周传",
+    "type": "列传",
+    "abstractZh": "路径切片：张良、陈平。王陵、周勃不入封闭名单。",
+    "attestedPersonSlugs": [
+      "zhang-liang",
+      "chen-ping",
+      "liu-bang"
+    ],
+    "attestedEventSlugs": [
+      "hongmen",
+      "yunmeng"
+    ],
+    "extraction": "claims-extracted",
+    "pathIds": [
+      "chu-han"
+    ]
+  }
+]

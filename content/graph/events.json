@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "julu",
+    "nameZh": "巨鹿之战",
+    "nameEn": "Battle of Julu",
+    "yearApprox": "前207",
+    "noteZh": "项羽破秦军。楚汉路径中较早的一场。",
+    "pathIds": [
+      "chu-han"
+    ]
+  },
+  {
+    "slug": "hongmen",
+    "nameZh": "鸿门宴",
+    "nameEn": "Hongmen banquet",
+    "yearApprox": "前206",
+    "noteZh": "范增、项伯、张良、刘邦、项羽同场。",
+    "pathIds": [
+      "chu-han"
+    ]
+  },
+  {
+    "slug": "pengcheng",
+    "nameZh": "彭城之战",
+    "nameEn": "Battle of Pengcheng",
+    "yearApprox": "前205",
+    "noteZh": "项羽破刘邦。",
+    "pathIds": [
+      "chu-han"
+    ]
+  },
+  {
+    "slug": "jingxing",
+    "nameZh": "井陉之战",
+    "nameEn": "Battle of Jingxing",
+    "yearApprox": "前204",
+    "noteZh": "韩信破赵。对手不在封闭名单，故对端为事件。",
+    "pathIds": [
+      "chu-han"
+    ]
+  },
+  {
+    "slug": "chenggao",
+    "nameZh": "成皋之战",
+    "nameEn": "Battle of Chenggao",
+    "yearApprox": "前203",
+    "noteZh": "楚汉相持。主张尚未抽完。",
+    "pathIds": [
+      "chu-han"
+    ]
+  },
+  {
+    "slug": "gaixia",
+    "nameZh": "垓下之战",
+    "nameEn": "Battle of Gaixia",
+    "yearApprox": "前202",
+    "noteZh": "汉破项羽。楚汉路径中的收束之战。",
+    "pathIds": [
+      "chu-han"
+    ]
+  },
+  {
+    "slug": "yunmeng",
+    "nameZh": "伪游云梦",
+    "nameEn": "Feigned tour of Yunmeng",
+    "yearApprox": "前201",
+    "noteZh": "陈平之计，刘邦擒韩信。战事结束后的人事。",
+    "pathIds": [
+      "chu-han"
+    ]
+  }
+]

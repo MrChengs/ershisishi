@@ -1,0 +1,57 @@
+{
+  "slug": "jin-shu",
+  "order": 5,
+  "titleZh": "晋书",
+  "titleEn": "Book of Jin",
+  "pinyin": "Jìnshū",
+  "compilers": [
+    {
+      "zh": "房玄龄等",
+      "en": "Fang Xuanling et al.",
+      "slug": "fang-xuanling"
+    }
+  ],
+  "compiledDynasty": "唐",
+  "compiledYear": "644–646年",
+  "covers": "西晋、东晋",
+  "yearsCovered": "265–420",
+  "yearStart": 265,
+  "yearEnd": 420,
+  "juan": 130,
+  "genre": "断代史",
+  "group": "晋与南北朝",
+  "structure": [
+    {
+      "name": "帝纪",
+      "count": 10
+    },
+    {
+      "name": "志",
+      "count": 20
+    },
+    {
+      "name": "列传",
+      "count": 70
+    },
+    {
+      "name": "载记",
+      "count": 30,
+      "note": "记十六国"
+    }
+  ],
+  "summaryZh": "唐太宗诏修，房玄龄监修，是唐初官修前代史的代表。记两晋，并以「载记」三十卷专记十六国，使分裂时期的北方政权进入正史系统。宣帝、武帝两纪与陆机、王羲之两传相传为太宗亲撰论赞。",
+  "summaryEn": "Compiled by imperial order under Fang Xuanling, it covers Western and Eastern Jin and adds thirty juan of “chronicles” (zaji) for the Sixteen Kingdoms. Two imperial annals and two literary biographies are traditionally said to carry Taizong’s own appraisals.",
+  "notes": [
+    "唐以前晋史多家，此书集其成而取代旧本。",
+    "载记体例为处理并立政权提供了范例。",
+    "文风骈俪，史料取舍有唐人正统观。"
+  ],
+  "relatedBookSlugs": [
+    "sanguo-zhi",
+    "song-shu",
+    "wei-shu"
+  ],
+  "relatedPersonSlugs": [
+    "fang-xuanling"
+  ]
+}

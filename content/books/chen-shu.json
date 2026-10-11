@@ -1,0 +1,47 @@
+{
+  "slug": "chen-shu",
+  "order": 9,
+  "titleZh": "陈书",
+  "titleEn": "Book of Chen",
+  "pinyin": "Chénshū",
+  "compilers": [
+    {
+      "zh": "姚思廉",
+      "en": "Yao Silian",
+      "slug": "yao-silian"
+    }
+  ],
+  "compiledDynasty": "唐",
+  "compiledYear": "636年",
+  "covers": "陈",
+  "yearsCovered": "557–589",
+  "yearStart": 557,
+  "yearEnd": 589,
+  "juan": 36,
+  "genre": "断代史",
+  "group": "晋与南北朝",
+  "structure": [
+    {
+      "name": "本纪",
+      "count": 6
+    },
+    {
+      "name": "列传",
+      "count": 30
+    }
+  ],
+  "summaryZh": "二十四史中卷帙最简之一，记南朝陈。姚思廉据家学与唐初所能见的陈代史料写成。对陈朝政治规模、江左残局及隋平陈有直接记载，宜与《隋书》《南史》对读。",
+  "summaryEn": "One of the shortest of the Twenty-Four Histories, covering the Chen dynasty. Yao Silian used family drafts and early Tang sources. Best read beside the Sui Shu and Nan Shi for the conquest of the south.",
+  "notes": [
+    "无志，礼乐官制需参《隋书》志。",
+    "陈朝享国短，史料本就稀少，故此书不可替代。"
+  ],
+  "relatedBookSlugs": [
+    "liang-shu",
+    "sui-shu",
+    "nan-shi"
+  ],
+  "relatedPersonSlugs": [
+    "yao-silian"
+  ]
+}

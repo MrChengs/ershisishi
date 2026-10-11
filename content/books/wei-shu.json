@@ -1,0 +1,49 @@
+{
+  "slug": "wei-shu",
+  "order": 10,
+  "titleZh": "魏书",
+  "titleEn": "Book of Wei",
+  "pinyin": "Wèishū",
+  "compilers": [
+    {
+      "zh": "魏收",
+      "en": "Wei Shou"
+    }
+  ],
+  "compiledDynasty": "北齐",
+  "compiledYear": "554年",
+  "covers": "北魏（兼及东魏）",
+  "yearsCovered": "386–550",
+  "yearStart": 386,
+  "yearEnd": 550,
+  "juan": 114,
+  "genre": "断代史",
+  "group": "晋与南北朝",
+  "structure": [
+    {
+      "name": "本纪",
+      "count": 12
+    },
+    {
+      "name": "列传",
+      "count": 92
+    },
+    {
+      "name": "志",
+      "count": 10
+    }
+  ],
+  "summaryZh": "记拓跋鲜卑所建北魏。魏收在北齐修魏史，以东魏、北齐为正统，对西魏多贬抑，当时即有「秽史」之讥。但《官氏志》《释老志》等为研究北族姓氏、佛教与道教的第一手材料，不可因争议而废书。",
+  "summaryEn": "History of the Northern Wei. Wei Shou wrote it at the Northern Qi court, privileging the eastern line; contemporaries attacked it as a “filthy history.” Its treatises on official clans and on Buddhism and Daoism remain indispensable.",
+  "notes": [
+    "今本有残缺，后世以《北史》等补亡。",
+    "《释老志》是正史中罕见的宗教专志。",
+    "读北魏必须与《北史》对照。"
+  ],
+  "relatedBookSlugs": [
+    "bei-qi-shu",
+    "zhou-shu",
+    "bei-shi"
+  ],
+  "relatedPersonSlugs": []
+}

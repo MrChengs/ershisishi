@@ -1,0 +1,54 @@
+{
+  "slug": "yuan-shi",
+  "order": 23,
+  "titleZh": "元史",
+  "titleEn": "History of Yuan",
+  "pinyin": "Yuánshǐ",
+  "compilers": [
+    {
+      "zh": "宋濂等",
+      "en": "Song Lian et al.",
+      "slug": "song-lian"
+    }
+  ],
+  "compiledDynasty": "明",
+  "compiledYear": "1369–1370年",
+  "covers": "元",
+  "yearsCovered": "1206–1368",
+  "yearStart": 1206,
+  "yearEnd": 1368,
+  "juan": 210,
+  "genre": "断代史",
+  "group": "宋辽金元明",
+  "structure": [
+    {
+      "name": "本纪",
+      "count": 47
+    },
+    {
+      "name": "志",
+      "count": 53
+    },
+    {
+      "name": "表",
+      "count": 6
+    },
+    {
+      "name": "列传",
+      "count": 97
+    }
+  ],
+  "summaryZh": "明太祖洪武初年仓促成书，前后两度开馆仅约一年。因不谙蒙古语文、体例疏漏、重复抵牾甚多，清人柯劭忞有《新元史》，今人更重《元朝秘史》及波斯文史料。尽管如此，《元史》仍是汉文元史的骨架，尤其是志、表与汉地人物列传。",
+  "summaryEn": "Rushed out in the first years of the Ming, in about a year of editorial work. Weakness in Mongolian, haste, and duplication made it notorious. Later revisions and non-Chinese sources are essential—but the Yuan Shi remains the Chinese-language frame, especially its treatises and Chinese biographies.",
+  "notes": [
+    "顺帝一朝因无实录，最为简略。",
+    "读元史需兼用《元朝秘史》、伊利汗国史书与出土文书。"
+  ],
+  "relatedBookSlugs": [
+    "jin-shi",
+    "ming-shi"
+  ],
+  "relatedPersonSlugs": [
+    "song-lian"
+  ]
+}

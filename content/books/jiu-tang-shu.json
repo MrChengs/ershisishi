@@ -1,0 +1,47 @@
+{
+  "slug": "jiu-tang-shu",
+  "order": 16,
+  "titleZh": "旧唐书",
+  "titleEn": "Old Book of Tang",
+  "pinyin": "Jiù Tángshū",
+  "compilers": [
+    {
+      "zh": "刘昫等",
+      "en": "Liu Xu et al."
+    }
+  ],
+  "compiledDynasty": "后晋",
+  "compiledYear": "945年",
+  "covers": "唐",
+  "yearsCovered": "618–907",
+  "yearStart": 618,
+  "yearEnd": 907,
+  "juan": 200,
+  "genre": "断代史",
+  "group": "唐与五代",
+  "structure": [
+    {
+      "name": "本纪",
+      "count": 20
+    },
+    {
+      "name": "志",
+      "count": 30
+    },
+    {
+      "name": "列传",
+      "count": 150
+    }
+  ],
+  "summaryZh": "五代后晋官修唐史，多直接抄录唐代实录、国史，故保存原始材料最多。北宋以后《新唐书》行世，本书一度稀见，清人重刻后与新书并用。治唐史者，纪传往往先旧后新，志则两书不可偏废。",
+  "summaryEn": "The Later Jin court’s Tang history, close to Tang veritable records and national histories, and therefore often more primary. After the Xin Tangshu appeared it nearly dropped from circulation; Qing reprints restored it. Scholars usually read biographies in both books.",
+  "notes": [
+    "文宗以后部分成书仓促，质量不如前半。",
+    "《经籍志》可与《新唐书·艺文志》对勘。"
+  ],
+  "relatedBookSlugs": [
+    "xin-tang-shu",
+    "sui-shu"
+  ],
+  "relatedPersonSlugs": []
+}

@@ -1,0 +1,262 @@
+[
+  {
+    "id": "c-julu",
+    "type": "破",
+    "from": "xiang-yu",
+    "to": "julu",
+    "fromKind": "person",
+    "toKind": "event",
+    "eventSlug": "julu",
+    "status": "published",
+    "editor": "chengs",
+    "locusIds": [
+      "sj7-julu",
+      "hs31-julu"
+    ],
+    "companionLocusIds": []
+  },
+  {
+    "id": "c-fan-jian",
+    "type": "谏",
+    "from": "fan-zeng",
+    "to": "xiang-yu",
+    "fromKind": "person",
+    "toKind": "person",
+    "eventSlug": "hongmen",
+    "status": "published",
+    "editor": "chengs",
+    "locusIds": [
+      "sj7-hongmen-fan",
+      "hs31-hongmen"
+    ],
+    "companionLocusIds": []
+  },
+  {
+    "id": "c-bo-qin",
+    "type": "亲属",
+    "from": "xiang-bo",
+    "to": "xiang-yu",
+    "fromKind": "person",
+    "toKind": "person",
+    "eventSlug": "hongmen",
+    "status": "published",
+    "editor": "chengs",
+    "locusIds": [
+      "sj7-hongmen-bo"
+    ],
+    "companionLocusIds": []
+  },
+  {
+    "id": "c-liang-hongmen",
+    "type": "计",
+    "from": "zhang-liang",
+    "to": "liu-bang",
+    "fromKind": "person",
+    "toKind": "person",
+    "eventSlug": "hongmen",
+    "status": "published",
+    "editor": "chengs",
+    "locusIds": [
+      "sj55-hongmen",
+      "hs40-liang"
+    ],
+    "companionLocusIds": []
+  },
+  {
+    "id": "c-pengcheng",
+    "type": "破",
+    "from": "xiang-yu",
+    "to": "liu-bang",
+    "fromKind": "person",
+    "toKind": "person",
+    "eventSlug": "pengcheng",
+    "status": "published",
+    "editor": "chengs",
+    "locusIds": [
+      "sj7-pengcheng"
+    ],
+    "companionLocusIds": []
+  },
+  {
+    "id": "c-xiao-jian",
+    "type": "计",
+    "from": "xiao-he",
+    "to": "liu-bang",
+    "fromKind": "person",
+    "toKind": "person",
+    "status": "published",
+    "editor": "chengs",
+    "locusIds": [
+      "sj53-jian",
+      "hs39-jian"
+    ],
+    "companionLocusIds": []
+  },
+  {
+    "id": "c-bai-xin",
+    "type": "拜",
+    "from": "liu-bang",
+    "to": "han-xin",
+    "fromKind": "person",
+    "toKind": "person",
+    "status": "published",
+    "editor": "chengs",
+    "locusIds": [
+      "sj92-bai"
+    ],
+    "companionLocusIds": []
+  },
+  {
+    "id": "c-xin-shu",
+    "type": "隶属",
+    "from": "han-xin",
+    "to": "liu-bang",
+    "fromKind": "person",
+    "toKind": "person",
+    "status": "published",
+    "editor": "chengs",
+    "locusIds": [
+      "sj92-bai",
+      "hs34-xin"
+    ],
+    "companionLocusIds": []
+  },
+  {
+    "id": "c-jingxing",
+    "type": "破",
+    "from": "han-xin",
+    "to": "jingxing",
+    "fromKind": "person",
+    "toKind": "event",
+    "eventSlug": "jingxing",
+    "status": "published",
+    "editor": "chengs",
+    "locusIds": [
+      "sj92-jingxing"
+    ],
+    "companionLocusIds": []
+  },
+  {
+    "id": "c-bu-feng",
+    "type": "封",
+    "from": "xiang-yu",
+    "to": "ying-bu",
+    "fromKind": "person",
+    "toKind": "person",
+    "status": "published",
+    "editor": "chengs",
+    "locusIds": [
+      "sj91-feng"
+    ],
+    "companionLocusIds": []
+  },
+  {
+    "id": "c-bu-jiang",
+    "type": "降",
+    "from": "ying-bu",
+    "to": "liu-bang",
+    "fromKind": "person",
+    "toKind": "person",
+    "status": "published",
+    "editor": "chengs",
+    "locusIds": [
+      "sj91-jiang"
+    ],
+    "companionLocusIds": []
+  },
+  {
+    "id": "c-bu-fan",
+    "type": "叛",
+    "from": "ying-bu",
+    "to": "liu-bang",
+    "fromKind": "person",
+    "toKind": "person",
+    "status": "published",
+    "editor": "chengs",
+    "locusIds": [
+      "sj91-fan"
+    ],
+    "companionLocusIds": []
+  },
+  {
+    "id": "c-ping-yunmeng",
+    "type": "计",
+    "from": "chen-ping",
+    "to": "liu-bang",
+    "fromKind": "person",
+    "toKind": "person",
+    "eventSlug": "yunmeng",
+    "status": "published",
+    "editor": "chengs",
+    "locusIds": [
+      "sj56-yunmeng",
+      "hs40-yunmeng"
+    ],
+    "companionLocusIds": [
+      "tj9-yunmeng"
+    ]
+  },
+  {
+    "id": "c-yunmeng-xin",
+    "type": "败",
+    "from": "liu-bang",
+    "to": "han-xin",
+    "fromKind": "person",
+    "toKind": "person",
+    "eventSlug": "yunmeng",
+    "status": "published",
+    "editor": "chengs",
+    "locusIds": [
+      "sj92-yunmeng",
+      "hs34-yunmeng"
+    ],
+    "companionLocusIds": [
+      "tj9-yunmeng"
+    ]
+  },
+  {
+    "id": "c-lu-xin",
+    "type": "诛",
+    "from": "lu-zhi",
+    "to": "han-xin",
+    "fromKind": "person",
+    "toKind": "person",
+    "status": "published",
+    "editor": "chengs",
+    "locusIds": [
+      "sj92-lu"
+    ],
+    "companionLocusIds": []
+  },
+  {
+    "id": "c-gaixia-yu",
+    "type": "破",
+    "from": "liu-bang",
+    "to": "xiang-yu",
+    "fromKind": "person",
+    "toKind": "person",
+    "eventSlug": "gaixia",
+    "status": "published",
+    "editor": "chengs",
+    "locusIds": [
+      "sj8-gaixia",
+      "hs1-gaixia",
+      "sj7-gaixia"
+    ],
+    "companionLocusIds": []
+  },
+  {
+    "id": "c-lu-qin",
+    "type": "亲属",
+    "from": "lu-zhi",
+    "to": "liu-bang",
+    "fromKind": "person",
+    "toKind": "person",
+    "status": "published",
+    "editor": "chengs",
+    "locusIds": [
+      "sj8-lu"
+    ],
+    "companionLocusIds": []
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "id": "xiang-yu",
+    "pathId": "chu-han",
+    "titleZh": "项羽本纪 × 陈胜项籍传",
+    "left": {
+      "work": "shi-ji",
+      "number": 7
+    },
+    "right": {
+      "work": "han-shu",
+      "number": 31
+    },
+    "focusPersonSlugs": [
+      "xiang-yu",
+      "fan-zeng",
+      "xiang-bo"
+    ],
+    "focusEventSlugs": [
+      "julu",
+      "hongmen",
+      "gaixia"
+    ]
+  },
+  {
+    "id": "liu-bang",
+    "pathId": "chu-han",
+    "titleZh": "高祖本纪 × 高帝纪",
+    "left": {
+      "work": "shi-ji",
+      "number": 8
+    },
+    "right": {
+      "work": "han-shu",
+      "number": 1
+    },
+    "focusPersonSlugs": [
+      "liu-bang",
+      "xiang-yu"
+    ],
+    "focusEventSlugs": [
+      "gaixia",
+      "pengcheng"
+    ]
+  },
+  {
+    "id": "han-xin",
+    "pathId": "chu-han",
+    "titleZh": "淮阴侯列传 × 韩彭英卢吴传·韩信",
+    "left": {
+      "work": "shi-ji",
+      "number": 92
+    },
+    "right": {
+      "work": "han-shu",
+      "number": 34
+    },
+    "slice": "韩信",
+    "focusPersonSlugs": [
+      "han-xin",
+      "liu-bang"
+    ],
+    "focusEventSlugs": [
+      "jingxing",
+      "yunmeng"
+    ]
+  },
+  {
+    "id": "zhang-liang",
+    "pathId": "chu-han",
+    "titleZh": "留侯世家 × 张陈王周传·张良",
+    "left": {
+      "work": "shi-ji",
+      "number": 55
+    },
+    "right": {
+      "work": "han-shu",
+      "number": 40
+    },
+    "slice": "张良",
+    "focusPersonSlugs": [
+      "zhang-liang",
+      "liu-bang"
+    ],
+    "focusEventSlugs": [
+      "hongmen"
+    ]
+  },
+  {
+    "id": "xiao-he",
+    "pathId": "chu-han",
+    "titleZh": "萧相国世家 × 萧何曹参传·萧何",
+    "left": {
+      "work": "shi-ji",
+      "number": 53
+    },
+    "right": {
+      "work": "han-shu",
+      "number": 39
+    },
+    "slice": "萧何",
+    "focusPersonSlugs": [
+      "xiao-he",
+      "han-xin",
+      "liu-bang"
+    ],
+    "focusEventSlugs": []
+  }
+]
