@@ -1,5 +1,7 @@
 # 二十四史 · 正史知识库
 
+站点首页：[https://mrchengs.github.io/ershisishi/](https://mrchengs.github.io/ershisishi/)
+
 Public knowledge site for China’s Twenty-Four Histories (二十四史): books, historians, form, and reading paths.
 
 ## Develop

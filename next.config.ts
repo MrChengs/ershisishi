@@ -1,14 +1,12 @@
 import type { NextConfig } from "next";
 
-const repo = "ershisishi";
-const usingPages = process.env.GITHUB_ACTIONS === "true";
-const pagesBase = usingPages ? `/${repo}` : "";
+const pagesBase = (process.env.PAGES_BASE_PATH ?? "").replace(/\/$/, "");
 
 const nextConfig: NextConfig = {
   output: "export",
   trailingSlash: true,
   images: { unoptimized: true },
-  basePath: pagesBase,
+  basePath: pagesBase || undefined,
   assetPrefix: pagesBase || undefined,
   outputFileTracingIncludes: {
     "/**": ["./content/**/*"],
