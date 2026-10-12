@@ -23,9 +23,8 @@ Add a book, person, or article there, then link it with `related*Slugs`. See `/k
 
 ## Deploy
 
-Any Node host that runs Next.js (Vercel, etc.):
+GitHub Pages serves a static export of this site:
 
-```bash
-npm run build
-npm start
-```
+[https://mrchengs.github.io/ershisishi/](https://mrchengs.github.io/ershisishi/)
+
+Pushes to `master` run `.github/workflows/pages.yml`. In the repository, set **Settings → Pages → Source** to **GitHub Actions**.

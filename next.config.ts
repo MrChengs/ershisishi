@@ -1,27 +1,19 @@
 import type { NextConfig } from "next";
-import siteConfig from "./content/config.json";
 
-const bookSlugAliases = siteConfig.bookSlugAliases ?? {};
+const repo = "ershisishi";
+const usingPages = process.env.GITHUB_ACTIONS === "true";
+const pagesBase = usingPages ? `/${repo}` : "";
 
 const nextConfig: NextConfig = {
+  output: "export",
+  trailingSlash: true,
+  images: { unoptimized: true },
+  basePath: pagesBase,
+  assetPrefix: pagesBase || undefined,
   outputFileTracingIncludes: {
     "/**": ["./content/**/*"],
   },
   devIndicators: false,
-  async redirects() {
-    return Object.entries(bookSlugAliases).flatMap(([from, to]) => [
-      {
-        source: `/histories/${from}`,
-        destination: `/histories/${to}`,
-        permanent: true,
-      },
-      {
-        source: `/juan/${from}/:n`,
-        destination: `/juan/${to}/:n`,
-        permanent: true,
-      },
-    ]);
-  },
 };
 
 export default nextConfig;

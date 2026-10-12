@@ -2,36 +2,37 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ClaimCard } from "@/components/ClaimCard";
+import { getBook } from "@/data/books";
 import {
   claimsForJuan,
   getJuan,
-  isWorkId,
-  pathJuans,
+  juanStaticParams,
   pathPeople,
   workTitle,
 } from "@/data/graph";
 
 type Props = { params: Promise<{ work: string; n: string }> };
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
-  return pathJuans.map((juan) => ({
-    work: juan.work,
-    n: String(juan.number),
-  }));
+  return juanStaticParams();
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { work, n } = await params;
-  if (!isWorkId(work)) return { title: "未找到" };
-  const juan = getJuan(work, Number(n));
+  const book = getBook(work);
+  if (!book) return { title: "未找到" };
+  const juan = getJuan(book.slug, Number(n));
   if (!juan) return { title: "未找到" };
   return { title: `${workTitle[juan.work]} · ${juan.titleZh}` };
 }
 
 export default async function JuanPage({ params }: Props) {
   const { work, n } = await params;
-  if (!isWorkId(work)) notFound();
-  const juan = getJuan(work, Number(n));
+  const book = getBook(work);
+  if (!book) notFound();
+  const juan = getJuan(book.slug, Number(n));
   if (!juan) notFound();
   const related = claimsForJuan(juan.work, juan.number);
 

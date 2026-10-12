@@ -13,6 +13,8 @@ import {
 
 type Props = { params: Promise<{ slug: string }> };
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return pathEvents.map((event) => ({ slug: event.slug }));
 }

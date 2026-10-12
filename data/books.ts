@@ -14,6 +14,15 @@ export function getBook(slug: string) {
   return corpus.books.find((book) => book.slug === canonical);
 }
 
+export function bookSlugParams() {
+  const corpus = loadCorpus();
+  const slugs = new Set(corpus.books.map((book) => book.slug));
+  for (const alias of Object.keys(corpus.config.bookSlugAliases ?? {})) {
+    slugs.add(alias);
+  }
+  return [...slugs].map((slug) => ({ slug }));
+}
+
 export function totalJuan() {
   return loadCorpus().books.reduce((sum, book) => sum + book.juan, 0);
 }

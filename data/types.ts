@@ -67,3 +67,5 @@ export type SearchHit = {
   titleEn: string;
   snippet: string;
 };
+
+export type SearchRecord = SearchHit & { needle: string };

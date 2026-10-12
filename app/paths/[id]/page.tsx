@@ -17,6 +17,8 @@ import { groupPathPeople } from "@/data/listPeople";
 
 type Props = { params: Promise<{ id: string }> };
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return historyPaths.map((path) => ({ id: path.id }));
 }

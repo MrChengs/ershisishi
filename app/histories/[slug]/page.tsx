@@ -1,14 +1,16 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { RelatedList } from "@/components/RelatedList";
-import { books, getBook } from "@/data/books";
+import { bookSlugParams, getBook } from "@/data/books";
 import { relatedArticles, relatedBooks, relatedPeople, peopleForBook } from "@/data/index";
 import { articles } from "@/data/articles";
 
 type Props = { params: Promise<{ slug: string }> };
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
-  return books.map((book) => ({ slug: book.slug }));
+  return bookSlugParams();
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {

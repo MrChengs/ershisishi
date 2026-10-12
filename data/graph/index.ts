@@ -73,6 +73,20 @@ export function getJuan(work: WorkId, number: number) {
   return pathJuans.find((juan) => juan.work === work && juan.number === number);
 }
 
+export function juanStaticParams() {
+  const aliases = Object.entries(loadCorpus().config.bookSlugAliases ?? {});
+  const params: { work: string; n: string }[] = [];
+  for (const juan of pathJuans) {
+    params.push({ work: juan.work, n: String(juan.number) });
+    for (const [from, to] of aliases) {
+      if (to === juan.work) {
+        params.push({ work: from, n: String(juan.number) });
+      }
+    }
+  }
+  return params;
+}
+
 export function getLocus(id: string) {
   return loci.find((locus) => locus.id === id);
 }

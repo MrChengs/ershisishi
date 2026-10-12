@@ -7,6 +7,8 @@ import type { Metadata } from "next";
 
 type Props = { params: Promise<{ slug: string }> };
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   const graph = pathPeople.map((person) => ({ slug: person.slug }));
   const hist = historians
